@@ -5,3 +5,9 @@ get_org_list <- function() {
   return(res)
   
 }
+
+search_data <- function(query) {
+  
+  ds_search(q=query, plain=TRUE, as="table")
+  
+}
