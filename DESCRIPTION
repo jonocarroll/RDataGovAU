@@ -1,0 +1,8 @@
+Package: RDataGovAU
+Title: Obtain Open Datasets from data.gov.au
+Version: 0.0.0.9000
+Authors@R: person("Jonathan", "Carroll", , "jono@jcarroll.com.au", role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends: R 
+License: What license is it under?
+LazyData: true
